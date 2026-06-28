@@ -168,7 +168,7 @@ git clone https://github.com/your-username/fast-feast.git
 cd fast-feast
 
 # Install frontend dependencies
-cd app
+cd frontend
 npm install
 
 # Install backend dependencies
@@ -206,7 +206,7 @@ cd backend
 npm run dev
 
 # Terminal 2 — Frontend
-cd app
+cd frontend 
 npm run dev
 ```
 
